@@ -1,0 +1,10 @@
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\bin\Debug\krestundnull.exe.config
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\bin\Debug\krestundnull.exe
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\bin\Debug\krestundnull.pdb
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\obj\Debug\krestundnull.csproj.AssemblyReference.cache
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\obj\Debug\krestundnull.Form1.resources
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\obj\Debug\krestundnull.Properties.Resources.resources
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\obj\Debug\krestundnull.csproj.GenerateResource.cache
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\obj\Debug\krestundnull.csproj.CoreCompileInputs.cache
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\obj\Debug\krestundnull.exe
+C:\Users\Zugres\source\repos\krestundnull\krestundnull\obj\Debug\krestundnull.pdb
